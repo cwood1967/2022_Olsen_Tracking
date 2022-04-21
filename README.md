@@ -2,7 +2,7 @@
 
 "A generalist’s guide to quantifying swimming behavior within traditional and non-traditional teleost models"
 
-Luke Olsen<sub>1,2</sup>,
+Luke Olsen<sup>1,2</sup>,
 Richard Alexander<sup>1</sup>, Jaya Krishnan<sup>1</sup>,
 Christopher Wood<sup>1</sup>, Nicolas Rohner<sup>1,2></sup>
 
